@@ -7,7 +7,7 @@ metadata:
   name: bgd
   namespace: bgd
 spec:
-  #host: "bgd.apps.emretst.lp.int"
+  host: "bgd.apps.cluster-dde0.dde0.example.opentlc.com"
   port:
     targetPort: 8080
   to:
